@@ -2,10 +2,9 @@
 "card": "<div class="w3-card-4">",
 "/card": "</div>", 
 "header": "<header class="w3-container w3-black">",
-"header": "</header>",
-"headertext": "<h1>",
-"/headertext": "</h1>"
-"/header": "</header>"
+"/header": "</header>",
+"htext": "<h1>",
+"/htext": "</h1>"
 "cbody": "<div class="w3-container">",
 "/cbody": "</div",
 "ctext": "<p>",
