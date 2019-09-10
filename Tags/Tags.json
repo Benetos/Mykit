@@ -35,6 +35,7 @@
    "cardgray":"<div class=\"card bg-secondary text-white\" class=\"card border-0\">",
    "cardblack":"<div class=\"card bg-dark text-white\">",
    "/card":"</div>",
+   "scard":"<div class=\"card bg-light text-dark\" class=\"shadow p-3 mb-3 bg-white rounded-0\" class=\"card border-0\">",
    "cardheader":" <div class=\"card-header\"><h4>",
    "/cardheader":"</h4></div>",
    "cardbody":" <div class=\"card-body\">",
